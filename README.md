@@ -1,5 +1,9 @@
 ## NeuralProphets
 
+# Authors:
+ 
+Jennifer Rodriguez Trujillo, Xiangyue Wang
+
 # Research Question: 
 
 Recent works have shown that NeuralProphets is powerful when it comes to improving forecasting accuracy because of its ability to take in additional information alternative forecasting models can not. Although NeuralProphet is a powerful algorithm, additional forecasting techniques such as Predict Last Value, Exponential Smoothing, and SARIMA also exist. In this study, we aim to compare the accuracy of NeuralProphets alongside other existing forecasting techniques. Furthermore, we want to forecast the behavior of energy consumption and energy prices in Australia by using data collected in 2015 to 2019.
